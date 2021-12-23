@@ -1,8 +1,8 @@
-<!--
 ### Hi there 👋
+<!--
 I'm a Full-Stack Web Developer, [Visit My Freelancer Profile](https://www.freelancer.com/u/sumonst21) 
 -->
----
+
 <!--
 **sumonst21/sumonst21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <!--
 [![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&count_private=true&include_all_commits=true&show_icons=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&hide=tsql&langs_count=8)](#)
--->
 ---
+-->
 
 [Hire Me](https://www.freelancer.com/u/sumonst21) for any PHP / WordPress Project. Never used Freelancer.com? [Pay 0% project commission, forever](https://www.freelancer.com/hireme/sumonst21)
 
----
+
