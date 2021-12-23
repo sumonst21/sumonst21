@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/sumonst21?template=classic&repositories.forks=false&isocalendar=1&languages=1&gists=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka) 
 -->
+
+<!--
 [![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&count_private=true&include_all_commits=true&show_icons=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&hide=tsql&langs_count=8)](#)
-
+-->
 ---
 
 [Hire Me](https://www.freelancer.com/u/sumonst21) for any PHP / WordPress Project. Never used Freelancer.com? [Pay 0% project commission, forever](https://www.freelancer.com/hireme/sumonst21)
