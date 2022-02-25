@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 ---
 -->
 
-[Hire Me](https://www.freelancer.com/hireme/sumonst21) for any PHP / WordPress Project.
+[About Me](https://www.freelancer.com/u/sumonst21)
 
+> My most commits are private because these are my employers projects
