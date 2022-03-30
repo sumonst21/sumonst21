@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 <!--
 I'm a Full-Stack Web Developer, [Visit My Freelancer Profile](https://www.freelancer.com/u/sumonst21) 
 -->
@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 ---
 -->
 
+<!--
 > 🔭 [All about my projects and where I’m currently working on](https://www.freelancer.com/u/sumonst21) 
 
 > ⚡ My most commits are private because these are my employers projects
+-->
 
 <!--
 > Looking for some chip that will trigger some actions in my brain based on its thinking & apply filters to my talks before they are out - Why? I talk too much nonsense
