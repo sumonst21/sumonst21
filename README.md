@@ -21,7 +21,7 @@ Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧�
 
 ## 🖥️ My Workstation - v2018
 
-- **OS**: Windows 10 Pro, Ubuntu 18.04 LTS (Dual Boot), Currently (2022) Ubuntu 22.04 LTS
+- **OS**: Windows 11 Pro & Ubuntu 22.04 LTS
 - **CPU**: Intel Core i7-8700K
 - **GPU**: NVIDIA GeForce GTX 1050 Ti
 - **RAM**: 16GB DDR4 2400MHz
