@@ -19,7 +19,7 @@ Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧�
 
 <!-- ## 📚 My Skills -->
 
-## 🖥️ My Workstation - Since 2018
+## 🖥️ My Workstation - v2018
 
 - **OS**: Windows 10 Pro, Ubuntu 18.04 LTS (Dual Boot), Currently (2022) Ubuntu 22.04 LTS
 - **CPU**: Intel Core i7-8700K
