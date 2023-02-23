@@ -8,6 +8,7 @@ Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧�
 - [Twitter](https://twitter.com/sumonst21)
 - [LinkedIn](https://www.linkedin.com/in/sumonst21/)
 - [StackOverflow](https://stackoverflow.com/users/5400737/sumonst21)
+- <a rel="me" href="https://fosstodon.org/@sumonst21">Mastodon</a>
 
 ## 📫 How to Reach Me
 
