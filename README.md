@@ -28,8 +28,8 @@ Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧�
 - **RAM**: 16GB DDR4 2400MHz
 - **Monitor**: 2 x 22" 1920x1080 (60Hz)
 
-## 📈 My GitHub Stats
+## 📈
 
-[![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true)](#-my-github-stats)
+[![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&theme=radical&count_private=true)](#-my-github-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats)
