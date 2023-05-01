@@ -25,7 +25,7 @@ Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧�
 - **OS**: Windows 11 Pro & Ubuntu 22.04 LTS
 - **CPU**: Intel Core i7-8700K
 - **GPU**: NVIDIA GeForce GTX 1050 Ti
-- **RAM**: 16GB DDR4 2400MHz
+- **RAM**: 16GB DDR4 3000MHz
 - **Monitor**: 2 x 22" 1920x1080 (60Hz)
 
 ## 📈
