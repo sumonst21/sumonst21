@@ -2,6 +2,20 @@
 
 Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧🇩. I primarily build for the web, with PHP being my preferred language for back-end, but I also dabble in other areas such as NodeJS & Python.
 
+<!-- Share what you are focused on working on or learning at the moment. -->
+
+<!-- ## 👨‍💻 Projects -->
+
+<!-- List some of your projects here. -->
+
+<!-- ## 📚 What I am currently learning -->
+
+<!-- List some of your learning goals here. -->
+
+I am currently working as a full-time freelancer and I am available for hire. If you would like to work together on a project, [get in touch](#-how-to-reach-me).
+
+<!-- ## 📝 Latest Blog Posts -->
+
 ## 🔭 Find Me Elsewhere
 
 - [Facebook](https://www.facebook.com/sumonst21)
@@ -20,6 +34,8 @@ Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧�
 
 <!-- ## 📚 My Skills -->
 
+<!-- List some of your skills here. -->
+
 ## 🖥️ My Workstation - v2018
 
 - **OS**: Windows 11 Pro & Ubuntu 22.04 LTS
@@ -28,7 +44,7 @@ Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧�
 - **RAM**: 16GB DDR4 3000MHz
 - **Monitor**: 2 x 22" 1920x1080 (60Hz)
 
-## 📈
+## 📈 My GitHub Usage Stats
 
 [![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats)
 
