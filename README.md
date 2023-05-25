@@ -16,21 +16,37 @@ I am currently working as a full-time freelancer and I am available for hire. If
 
 <!-- ## 📝 Latest Blog Posts -->
 
+<!-- List the latest posts from your blog. -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- Two Column Table -->
+
+<!-- | 📚 What I am currently learning | 📝 Latest Blog Posts |
+| :-----------------------------: | :------------------: |
+|                                 |                      | -->
+
+
 ## 🔭 Find Me Elsewhere
 
-- [Facebook](https://www.facebook.com/sumonst21)
-- [Twitter](https://twitter.com/sumonst21)
-- [LinkedIn](https://www.linkedin.com/in/sumonst21/)
-- [StackOverflow](https://stackoverflow.com/users/5400737/sumonst21)
-- <a rel="me" href="https://fosstodon.org/@sumonst21">Mastodon</a>
+- <a rel="me" href="https://www.facebook.com/sumonst21/" target="_blank" title="Facebook">Facebook</a>
+- <a rel="me" href="https://twitter.com/sumonst21" target="_blank" title="Twitter">Twitter</a>
+- <a rel="me" href="https://www.linkedin.com/in/sumonst21/" target="_blank" title="LinkedIn">LinkedIn</a>
+- <a rel="me" href="https://stackoverflow.com/users/5400737/sumonst21" target="_blank" title="Stack Overflow">Stack Overflow</a>
+- <a rel="me" href="https://fosstodon.org/@sumonst21" target="_blank" title="Mastodon">Mastodon</a>
 
 ## 📫 How to Reach Me
 
-- [Freelancer](https://www.freelancer.com/u/sumonst21)
-- [Email](mailto:sumonst21@gmail.com)
-- [Skype](skype:sumonst21?chat)
+- <a rel="me" href="https://www.freelancer.com/u/sumonst21" target="_blank" title="Hire me on Freelancer">Freelancer</a>
 
-<!--[Start a discussion](https://github.com/sumonst21/sumonst21/discussions/new) if you have any questions.-->
+<!-- | 📫 How to reach me | 🔭 Find me elsewhere |
+| :----------------: | :------------------: |
+| <a rel="me" href="https://www.freelancer.com/u/sumonst21" target="_blank" title="Hire me on Freelancer">Freelancer</a> | <a rel="me" href="https://www.facebook.com/sumonst21/" target="_blank" title="Facebook">Facebook</a> |
+| <a href="mailto:sumonst21@gmail.com" title="Say Hello">Email</a> | <a rel="me" href="https://twitter.com/sumonst21" target="_blank" title="Twitter">Twitter</a> |
+| Skype: sumonst21 | <a rel="me" href="https://www.linkedin.com/in/sumonst21/" target="_blank" title="LinkedIn">LinkedIn</a> |
+|  | <a rel="me" href="https://stackoverflow.com/users/5400737/sumonst21" target="_blank" title="Stack Overflow">Stack Overflow</a> |
+|  | <a rel="me" href="https://fosstodon.org/@sumonst21" target="_blank" title="Mastodon">Mastodon</a> | -->
 
 <!-- ## 📚 My Skills -->
 
@@ -44,8 +60,18 @@ I am currently working as a full-time freelancer and I am available for hire. If
 - **RAM**: 16GB DDR4 3000MHz
 - **Monitor**: 2 x 22" 1920x1080 (60Hz)
 
-## 📈 My GitHub Usage Stats
+<!-- ## 📈 My GitHub Usage Stats -->
 
-[![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats)
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats)
+<!-- [![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats) -->
+
+| | |
+| :-------------------------: | :-------------------------: |
+| [![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats) |
+
+<hr>
+
+*[Start a discussion](https://github.com/sumonst21/sumonst21/discussions/new) if you have any questions.*
