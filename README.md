@@ -17,18 +17,18 @@ I am currently working as a full-time freelancer and I am available for hire. If
 
 <!-- ## 📈 My GitHub Usage Stats -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- [![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats) -->
 
-| | |
+<!-- | | |
 | :-------------------------: | :-------------------------: |
 | [![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonst21&show_icons=true&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonst21&layout=compact&theme=radical&count_private=true&hide_progress=true&langs_count=12&layout=compact&cache_seconds=86400)](#-my-github-stats) |
 
 <hr>
-
+ -->
 <!-- ## 📝 Latest Blog Posts -->
 
 <!-- List the latest posts from your blog. -->
