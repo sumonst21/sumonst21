@@ -1,6 +1,6 @@
-## 👋 Hello
+## 👋 Hi there
 
-My name is Sumon and I am a full-stack developer based in Dhaka, BD. I primarily build for the web, with PHP being my preferred language for back-end, but I also dabble in other areas such as NodeJS & Python.
+I'm a full-stack web developer with expertise in PHP, HTML, WordPress, and website design. I have a strong focus on website optimization, ensuring fast and seamless user experiences. With mastery in DevOps practices, I excel in cloud infrastructure automation and backup solutions. I also prioritize web security to safeguard websites against potential threats. Additionally, I'm skilled in cross-platform development, creating apps for iOS, Android, and PWA platforms using PHP Yii framework, Ionic, and Cordova. My dedication to delivering exceptional results makes me a valuable collaborator for creating amazing web solutions.
 
 I am currently working as a full-time freelancer and I am available for hire. If you would like to work together on a project, [get in touch](https://www.freelancer.com/u/sumonst21).
 
