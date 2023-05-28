@@ -85,4 +85,5 @@ I am currently working as a full-time freelancer and I am available for hire. If
 - **RAM**: 16GB DDR4 3000MHz
 - **Monitor**: 2 x 22" 1920x1080 (60Hz) -->
 
-<sub>*[Start a discussion](https://github.com/sumonst21/sumonst21/discussions/new) if you have any questions.*</sub>
+<!-- <sub>*[Start a discussion](https://github.com/sumonst21/sumonst21/discussions/new) if you have any questions.*</sub>
+ -->
