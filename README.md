@@ -1,6 +1,6 @@
-## 👋 Introduction
+## 👋 Hello
 
-Hello, my name is Sumon and I am a full-stack developer based in Dhaka, BD 🇧🇩. I primarily build for the web, with PHP being my preferred language for back-end, but I also dabble in other areas such as NodeJS & Python.
+My name is Sumon and I am a full-stack developer based in Dhaka, BD. I primarily build for the web, with PHP being my preferred language for back-end, but I also dabble in other areas such as NodeJS & Python.
 
 I am currently working as a full-time freelancer and I am available for hire. If you would like to work together on a project, [get in touch](https://www.freelancer.com/u/sumonst21).
 
