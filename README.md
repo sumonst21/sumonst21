@@ -1,8 +1,17 @@
-## 👋 Hi there
+# 👋 Hi there, I'm Sumon
 
-I'm a full-stack web developer with expertise in PHP, HTML, WordPress, and website design. I have a strong focus on website optimization, ensuring fast and seamless user experiences. With mastery in DevOps practices, I excel in cloud infrastructure automation and backup solutions. I also prioritize web security to safeguard websites against potential threats. Additionally, I'm skilled in cross-platform development, creating apps for iOS, Android, and PWA platforms using PHP Yii framework, Ionic, and Cordova. My dedication to delivering exceptional results makes me a valuable collaborator for creating amazing web solutions.
+I'm a passionate full-stack web developer with expertise in **PHP**, **HTML**, **WordPress**, and website design. I strive for excellence in delivering optimized and high-performing websites, ensuring seamless user experiences.
 
-I am currently working as a full-time freelancer and I am available for hire. If you would like to work together on a project, [get in touch](https://www.freelancer.com/u/sumonst21).
+My strong command over **DevOps** practices allows me to automate cloud infrastructure and implement robust backup solutions, ensuring data integrity and reliability.
+
+
+Web security is always a top priority for me, and I consistently implement industry best practices to safeguard websites from potential threats.
+
+
+I have extensive experience in **cross-platform development**, utilizing frameworks such as **PHP Yii**, **Ionic**, and **Cordova** to create cutting-edge Hybrid apps.
+
+
+As a full-time freelancer, I am dedicated to providing exceptional results and collaborating with clients to create amazing web solutions. If you have a project in mind and would like to work together, feel free to [get in touch](https://www.freelancer.com/u/sumonst21). Let's turn your vision into reality!
 
 <!-- <details>
 <summary>My top languages</summary>
