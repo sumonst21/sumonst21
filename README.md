@@ -4,14 +4,11 @@ I'm a passionate full-stack web developer with expertise in **PHP**, **HTML**, *
 
 My strong command over **DevOps** practices allows me to automate cloud infrastructure and implement robust backup solutions, ensuring data integrity and reliability.
 
-
 Web security is always a top priority for me, and I consistently implement industry best practices to safeguard websites from potential threats.
 
+I'm also skilled in **cross-platform (iOS/Android) development**, utilizing frameworks such as **Ionic**, **Cordova** etc.
 
-I have extensive experience in **cross-platform development**, utilizing frameworks such as **PHP Yii**, **Ionic**, and **Cordova** to create cutting-edge Hybrid apps.
-
-
-As a full-time freelancer, I am dedicated to providing exceptional results and collaborating with clients to create amazing web solutions. If you have a project in mind and would like to work together, feel free to [get in touch](https://www.freelancer.com/u/sumonst21). Let's turn your vision into reality!
+As a full-time freelancer, I am dedicated to providing exceptional results and collaborating with clients to create amazing web solutions. If you have a project in mind and would like to work together, feel free to get in touch. 
 
 <!-- <details>
 <summary>My top languages</summary>
