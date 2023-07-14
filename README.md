@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sumon
 
-<!-- Full-Time Freelancer. Focuses on Full-Stack Web Development & DevOps. Makes Websites/APIs, Progressive Web Apps, Hybrid Apps. Likes to automate things. -->
+<!-- Full-time freelancer specializing in full-stack web development and DevOps. Creates websites, APIs, Progressive Web Apps, and Hybrid Apps. Enjoys automating processes for increased efficiency. -->
 
 I'm a passionate full-stack web developer with expertise in **PHP**, **HTML**, **WordPress**, and website design. I strive for excellence in delivering optimized and high-performing websites, ensuring seamless user experiences.
 
