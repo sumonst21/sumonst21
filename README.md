@@ -1,9 +1,10 @@
 # 👋 Hallo, I'm Sumon
 
+I transform concepts into effective, scalable web applications. With **9+ years** of experience, I specialize in architecting, developing, and managing web solutions that drive success, optimize performance, and ensure reliability. Proven through **250+ completed projects**.
+
+*   🚀 Architecting & Delivering End-to-End Web Solutions
+*   ⚙️ Ensuring Application Performance, Scalability & Reliability
+*   💡 Translating Complex Requirements into Functional Applications
+*   짬 **9+ Years Experience** | **250+ Successfully Completed Projects**
+
 <!-- *Presently, I'm immersed in a fulfilling role with a German company. This means my capacity for new projects is a bit restricted right now.* -->
-
-I have extensive expertise in all things related to the **PHP** language, including but not limited to **MVC frameworks**, **CMS's**, **Database design**, and **RESTful APIs**.
-
-Whether it's web security, **DevOps**, or **cross-platform development**, I've got it covered.
-
-I value every connection, so even if I'm currently engaged, don't hesitate to drop me a message. Let's stay in touch!
